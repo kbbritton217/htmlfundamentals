@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Images Challenges</title>
+	</head>
+	<body>
+		<h1>Bronze</h1>
+			<img src="./img/rick-and-morty-portal.jpg" alt="Rick and Morty walk through a portal" width="300" height="200">
+			<a href="http://www.pogdesign.co.uk/cat/imgs/midmain/Rick-and-Morty.jpg./img/rick-and-morty-portal.jpg">
+		<h1>Silver</h1>
+			<a href="https://www.youtube.com/watch?v=G4BkGJj5BXg"><img src="./img/rick_and_morty_eyes.png"></a>
+
+
+
+	</body>
+</html>
