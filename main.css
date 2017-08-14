@@ -1,14 +1,19 @@
-p {
+/*p {
 	color: red;
 }
 
 .img-circle {
 	border-radius: 50%;
 }
-
+*/
 /*table {
 	border-collapse: collapse;
 }
 table, th, td {
 	border: 3px solid darkgrey;
 }*/
+
+.div-1 {
+	background-color: lightblue; 
+	padding: 20px;
+}
